@@ -1,4 +1,4 @@
-# GSF Core
+## GSF Core📌
 
 GSF Core is the architectural foundation of the GSF Digital Ecosystem.
 
@@ -6,6 +6,8 @@ This repository defines the system vision, governance model, and modular infrast
 
 GSF is not a single application.  
 It is a long-term digital ecosystem designed to evolve into an autonomous, AI-assisted digital city framework.
+
+![mystery](https://github.com/user-attachments/assets/5bebafcd-b0c6-4d5f-beb5-0b25fea2bff2)
 
 ---
 
@@ -28,14 +30,12 @@ Application implementations are developed separately.
 ## Repository Structure
 
 - VISION.md        → Long-term system direction
-
 - SYSTEM.md        → Core infrastructure logic
 - ECOSYSTEM.md     → Ecosystem module overview
 - GOVERNANCE.md    → Decision & governance framework
 - ROADMAP.md       → Development trajectory
 - START_HERE.md    → Entry point for contributors
 - docs/            → Technical research & architecture
-
 ---
 
 ## Philosophy
