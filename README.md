@@ -1,67 +1,87 @@
-## GSF Core
+# GSF Core
 
-GSF Core is the foundational architecture of the GSF Digital Ecosystem.
+GSF Core is the architectural foundation of the GSF Digital Ecosystem.
 
-This repository defines system vision, governance logic, and modular infrastructure powering the future digital city framework.
+This repository defines the system vision, governance model, and modular infrastructure powering GSF as a scalable digital environment.
 
----
-
-🚀 New contributors start here:
-→ START_HERE.md
+GSF is not a single application.  
+It is a long-term digital ecosystem designed to evolve into an autonomous, AI-assisted digital city framework.
 
 ---
 
-## Structure
+## Purpose
 
-- VISION.md — Long-term system philosophy
-- SYSTEM.md — Core infrastructure logic
-- ROADMAP.md — Development direction
-- GOVERNANCE.md — Ecosystem governance
-- docs/ — Technical architecture & research
+GSF Core exists to define how all GSF systems connect, evolve, and operate together.
 
----
+This repository focuses on:
 
-GSF is an open evolving system.
-Core modules remain under active development.
-GSF Core defines the architectural foundation of the GSF Digital Ecosystem.
-
-This repository represents the system-level vision, governance logic,
-and modular infrastructure behind GSF.
-
-GSF is designed as a scalable digital environment combining:
-
-- Education infrastructure
-- Community economies
-- Event interaction systems
+- System architecture
 - Governance logic
-- Autonomous AI coordination
+- Ecosystem structure
+- Long-term infrastructure design
+- Coordination between future modules
 
-This repository does NOT contain application code.
-
-It defines how all GSF systems connect and evolve.
+Application implementations are developed separately.
 
 ---
 
-## Structure
+## Repository Structure
 
-- Vision → Long-term direction
-- Ecosystem → System modules
-- Governance → Decision logic
-- System → Technical architecture
+- VISION.md        → Long-term system direction
+
+- SYSTEM.md        → Core infrastructure logic
+- ECOSYSTEM.md     → Ecosystem module overview
+- GOVERNANCE.md    → Decision & governance framework
+- ROADMAP.md       → Development trajectory
+- START_HERE.md    → Entry point for contributors
+- docs/            → Technical research & architecture
 
 ---
 
 ## Philosophy
 
-GSF is built as a living digital system.
+GSF is designed as a living system.
 
-Applications may change.
-Interfaces may evolve.
-The core logic remains.
+Interfaces may change.  
+Applications may evolve.  
+The underlying system logic remains stable.
+
+The goal is to create a modular environment capable of supporting:
+
+- Education infrastructure
+- Community economies
+- Event interaction systems
+- Digital governance
+- Autonomous AI coordination
+
+---
+
+## Scope
+
+This repository **does not contain production application code**.
+
+GSF Core defines the architecture layer that guides all future implementations across the ecosystem.
 
 ---
 
 ## Status
 
-Early Architecture Phase  
-Open for research collaboration.
+Architecture Phase — Active Development
+
+Open for research collaboration and experimental contributions.
+
+---
+
+## Contribution
+
+New contributors should begin here:
+
+→ `START_HERE.md`
+
+Pull Requests and architectural discussions are welcome.
+
+---
+
+## License
+
+Pending ecosystem licensing model.
